@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fda8d473-0cd4-42f2-85f8-886f49d298b1" name="Default Changelist" comment="" />
+    <list default="true" id="fda8d473-0cd4-42f2-85f8-886f49d298b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +56,9 @@
     </option>
   </component>
   <component name="ProjectId" id="22Dd97gZvdQxBHkKYkcwos24v8f" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,6 +66,7 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -73,7 +88,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -264,7 +279,8 @@
       <workItem from="1640230235055" duration="1166000" />
       <workItem from="1640238824089" duration="2222000" />
       <workItem from="1640241352264" duration="4586000" />
-      <workItem from="1640249417644" duration="3125000" />
+      <workItem from="1640249417644" duration="6934000" />
+      <workItem from="1640310982545" duration="2869000" />
     </task>
     <servers />
   </component>
@@ -289,6 +305,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
