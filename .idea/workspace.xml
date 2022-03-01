@@ -4,15 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fda8d473-0cd4-42f2-85f8-886f49d298b1" name="Default Changelist" comment="npm install vue-router@4升级路由">
-      <change afterPath="$PROJECT_DIR$/admin/src/router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/src/views/login.vue" afterDir="false" />
+    <list default="true" id="fda8d473-0cd4-42f2-85f8-886f49d298b1" name="Default Changelist" comment="npm install vue-router@4&#10;使用指令升级路由&#10;实现vue路由">
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/wrapper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/views/admin.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/views/admin/welcome.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/admin/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/admin/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/admin/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/admin/src/app.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/src/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin/src/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/src/views/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/admin/src/views/login.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +29,7 @@
         <option value="spring-beans.schema" />
         <option value="Class" />
         <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
@@ -121,7 +123,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Maven.mybatis-generator">
+  <component name="RunManager" selected="Spring Boot.EurekaApplication">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -294,7 +296,11 @@
       <workItem from="1640249417644" duration="6934000" />
       <workItem from="1640310982545" duration="2869000" />
       <workItem from="1640314364120" duration="5077000" />
-      <workItem from="1640343020413" duration="2687000" />
+      <workItem from="1640343020413" duration="2949000" />
+      <workItem from="1640570246089" duration="9473000" />
+      <workItem from="1640662765407" duration="5000" />
+      <workItem from="1646113535786" duration="69000" />
+      <workItem from="1646114629296" duration="4301000" />
     </task>
     <task id="LOCAL-00001" summary="安装vue">
       <created>1640314648222</created>
@@ -310,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640337123873</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="npm install vue-router@4&#10;使用指令升级路由&#10;实现vue路由">
+      <created>1640345815510</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1640345815510</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -341,7 +354,8 @@
     <MESSAGE value="安装vue" />
     <MESSAGE value=" 调整" />
     <MESSAGE value="npm install vue-router@4升级路由" />
-    <option name="LAST_COMMIT_MESSAGE" value="npm install vue-router@4升级路由" />
+    <MESSAGE value="npm install vue-router@4&#10;使用指令升级路由&#10;实现vue路由" />
+    <option name="LAST_COMMIT_MESSAGE" value="npm install vue-router@4&#10;使用指令升级路由&#10;实现vue路由" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
